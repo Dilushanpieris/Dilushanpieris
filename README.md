@@ -15,9 +15,10 @@
 - ⚡ Fun fact **I Think I'm a IT+Piston Head.**
 
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dilushanpieris&theme=algolia" alt="Dilushanpieris"  /></p>
-
+## 🔥 Github Stats
+<p align="center">
+<img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Dilushanpieris&show_icons=true&theme=gotham"/>
+</p>
 
 
 ### Chilling With 🎧
